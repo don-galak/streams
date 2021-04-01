@@ -11,16 +11,26 @@
       "id": 2
     },
     {
-      "title": "stream 3",
-      "description": "stream 3 description",
-      "userId": "117955741561201469839",
+      "title": "stream 3 changed",
+      "description": "stream 3 description changed",
       "id": 3
     },
     {
-      "title": "stream 4",
-      "description": "stream 4 description",
-      "userId": "117955741561201469839",
+      "title": "stream 4 changed",
+      "description": "stream 4 description changed",
       "id": 4
+    },
+    {
+      "title": "new stream 5 edited",
+      "description": "a new stream edited",
+      "userId": "117955741561201469839",
+      "id": 5
+    },
+    {
+      "title": "stream test",
+      "description": "stream test",
+      "userId": "117955741561201469839",
+      "id": 6
     }
   ]
 }
